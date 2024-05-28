@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645553537502",
+    "project_id": "facepunch",
+    "storage_bucket": "facepunch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645553537502:android:00f49d5aa6425bb1991d4f",
+        "android_client_info": {
+          "package_name": "com.golden.star.facepunch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645553537502-aqgvr70tqg6ckm5akkh8kgttielmst95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxialLRZ-GAqZsdk4sUD3u3Snf37Tp3wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645553537502-aqgvr70tqg6ckm5akkh8kgttielmst95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
